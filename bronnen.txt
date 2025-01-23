@@ -1,0 +1,7 @@
+nav buttons tekst op image: https://stackoverflow.com/questions/66445089/how-can-i-put-my-text-and-image-in-the-middle-of-a-div
+making buttons text click through: https://forum.squarespace.com/topic/262065-how-to-make-text-click-through/
+horizontal scrolling page 2: https://codeburst.io/how-to-create-horizontal-scrolling-containers-d8069651e9c6
+refresher met flexbox: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Aligning_items_in_a_flex_container
+table element page 3: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+fix border issue table: https://stackoverflow.com/questions/59999227/how-can-i-let-html-table-borders-merge-into-each-other-in-css
+
